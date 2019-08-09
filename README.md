@@ -10,3 +10,6 @@ sudo usermod -a -G dialout shahin
 sudo chmod a+rw /dev/ttyACM0
 
 ```
+https://www.youtube.com/watch?v=cpgQOmQwUL8
+
+https://www.youtube.com/watch?v=6CT0QL0lbRc
